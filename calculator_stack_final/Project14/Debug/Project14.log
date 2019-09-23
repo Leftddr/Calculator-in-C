@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\users\lg\onedrive\바탕 화면\프로그래밍\project14\project14\소스.cpp(170): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\lg\onedrive\바탕 화면\프로그래밍\project14\project14\소스.cpp(209): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\lg\onedrive\바탕 화면\프로그래밍\project14\project14\소스.cpp(207): warning C4101: 'temp2' :참조되지 않은 지역 변수입니다.
+  LINK : C:\Users\lg\OneDrive\바탕 화면\프로그래밍\Project14\Debug\Project14.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  Project14.vcxproj -> C:\Users\lg\OneDrive\바탕 화면\프로그래밍\Project14\Debug\Project14.exe
